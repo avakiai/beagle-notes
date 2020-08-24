@@ -1,3 +1,4 @@
+## Linear Algebra
 <!-- wp:paragraph -->
 <p><a href="https://www.youtube.com/playlist?list=PLn0OLiymPak2Jonu3CNTCKxKMNWgz3CTC" target="_blank" rel="noopener">Analyzing Neural Time Series Data</a>: Mike X Cohen's helpful lecturelets. Link to the Introduction playlist. Following sections found on his YouTube page.</p>
 <!-- /wp:paragraph -->
@@ -6,6 +7,7 @@
 <p><a href="https://www.youtube.com/playlist?list=PLn0OLiymPak3n8N6u06qI0ZNf87N_0rnz" target="_blank" rel="noopener">Linear Algebra</a>: again, Mike X Cohen.</p>
 <!-- /wp:paragraph -->
 
+## Neuro & Cog Sci
 <!-- wp:paragraph -->
 <p><a href="https://neurohackademy.org/" target="_blank" rel="noopener noreferrer">Neurohackademy</a>: 2-week course for working with neuroimaging data every year since 2016. Materials from tutorials on all sort of subjects under Materials tab.</p>
 <!-- /wp:paragraph -->
