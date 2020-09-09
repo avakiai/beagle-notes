@@ -9,7 +9,7 @@
 - [Nils Reimer's 'Get with the Plot!'](https://nilsreimer.com/series/get-with-the-plot/)
 - [The Pirate's Guide to R](https://bookdown.org/ndphillips/YaRrr/)
 - [Data Skills for Reproducible Science](https://psyteachr.github.io/msc-data-skills/)
-- [R Companion](https://rcompanion.org/rcompanion/)
+- **[R Companion](https://rcompanion.org/rcompanion/)**
 
 #### Helpful Blogs:
 - [Rebecca Barter](http://www.rebeccabarter.com/tutorials/)
@@ -22,11 +22,15 @@
 - [Wes Anderson Colors](https://github.com/karthik/wesanderson)
 
 ## Basic Statistics
+- [Statistical Tests and their Effect Sizes](https://cran.r-project.org/web/packages/statsExpressions/vignettes/stats_details.html#non-parametric-1)
+- [Effect sizes for Non-parametric Analyses](https://cran.r-project.org/web/packages/ARTool/vignettes/art-effect-size.html)
 ### Linear Models & ANOVAs
 - [Alexander P. Demos's Tutorials](http://www.alexanderdemos.org/ANOVA.html)
 ### General(ized) Linear Models
+- [Practical Regression and Anova using R (book)](https://cran.r-project.org/doc/contrib/Faraway-PRA.pdf)
 - [GLMM Worked Examples](https://bbolker.github.io/mixedmodels-misc/ecostats_chap.html)
 - [Ben Bolker's GLMM Tutorials](https://bbolker.github.io/mixedmodels-misc/)
+- [Polynomial Regression](https://datascienceplus.com/fitting-polynomial-regression-r/)
 ### Manipulating Fixed and Random Effects Coefficients
 - [Random Slope Models](http://www.bristol.ac.uk/cmm/learning/videos/random-slopes.html)
 - [Plotting Estimates (Fixed Effects) of Regression Models](https://cran.r-project.org/web/packages/sjPlot/vignettes/plot_model_estimates.html)
