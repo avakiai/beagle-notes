@@ -14,6 +14,7 @@
 #### Helpful Blogs:
 - [Rebecca Barter](http://www.rebeccabarter.com/tutorials/)
 - [Discovering Statistcs: A Stats Comic Series](https://www.discoveringstatistics.com/books/an-adventure-in-statistics/)
+- [Daniel Laken's Blog](http://daniellakens.blogspot.com/)
 ## Data Viz.
 - [R Graphics Cookbook](https://r-graphics.org/)
 ### Colors!!!
@@ -53,3 +54,6 @@
 - [Cluster Analysis in R](https://www.datanovia.com/en/blog/cluster-analysis-in-r-simplified-and-enhanced/)
 - [MNE Python in R](https://mne.tools/mne-r/index.html)
 
+## Packages to Checkout
+- [ggeffects](https://strengejacke.wordpress.com/2017/05/24/ggeffects-create-tidy-data-frames-of-marginal-effects-for-ggplot-from-model-outputs-rstats/)
+- [ggnewscale](https://github.com/eliocamp/ggnewscale)
