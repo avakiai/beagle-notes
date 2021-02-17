@@ -1,4 +1,6 @@
-## Linear Algebra
+# Video Tutorials 
+
+## Linear Algebra (Matlab)
 <!-- wp:paragraph -->
 <p><a href="https://www.youtube.com/playlist?list=PLn0OLiymPak2Jonu3CNTCKxKMNWgz3CTC" target="_blank" rel="noopener">Analyzing Neural Time Series Data</a>: Mike X Cohen's helpful lecturelets. Link to the Introduction playlist. Following sections found on his YouTube page.</p>
 <!-- /wp:paragraph -->
