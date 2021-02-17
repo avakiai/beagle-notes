@@ -37,9 +37,4 @@
 <ul>
 <li><a href="https://statmodeling.stat.columbia.edu/2019/04/16/abandoning-statistical-significance-is-both-sensible-and-practical/" target="_blank" rel="noopener">Argument for it's sensibility</a> (blog post)</li>
 </ul>
-</li><li>Signal Processing
-<ul>
-<li><a href="https://neurodsp-tools.github.io/neurodsp/glossary.html" target="_blank" rel="noopener">A glossary</a> from Brad Voytek's lab</li>
-</ul>
-</li></ul>
 <!-- /wp:list -->
