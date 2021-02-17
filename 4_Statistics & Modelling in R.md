@@ -1,26 +1,4 @@
-# Statistics & More in R
-## Getting Started with Stats & Data Visualization in R
-- [Data Wrangling in R](https://jules32.github.io/2016-07-12-Oxford/dplyr_tidyr/)
-- [Just Enough R](https://benwhalley.github.io/just-enough-r/)
-- [Stats with R](https://mgimond.github.io/Stats-in-R/index.html)
-- [Danielle Navarro's Learning Statistics with R](https://learningstatisticswithr.com/)
-- [Garrett Grolemund & Hadley Wickham's R for Data Science](https://r4ds.had.co.nz/index.html)
-- [The Tidyverse Style Guide](https://style.tidyverse.org/)
-- [Nils Reimer's 'Get with the Plot!'](https://nilsreimer.com/series/get-with-the-plot/)
-- [The Pirate's Guide to R](https://bookdown.org/ndphillips/YaRrr/)
-- [Data Skills for Reproducible Science](https://psyteachr.github.io/msc-data-skills/)
-- **[R Companion](https://rcompanion.org/rcompanion/)**
-
-#### Helpful Blogs:
-- [Rebecca Barter](http://www.rebeccabarter.com/tutorials/)
-- [Discovering Statistcs: A Stats Comic Series](https://www.discoveringstatistics.com/books/an-adventure-in-statistics/)
-- [Daniel Laken's Blog](http://daniellakens.blogspot.com/)
-## Data Viz.
-- [R Graphics Cookbook](https://r-graphics.org/)
-### Colors!!!
-- [All Colors in base R](http://www.stat.columbia.edu/~tzheng/files/Rcolor.pdf)
-- [Colors Café Instagram](https://www.instagram.com/accounts/login/?next=/colours.cafe/)
-- [Wes Anderson Colors](https://github.com/karthik/wesanderson)
+# Statistics & Modelling in R
 
 ## Basic Statistics
 - [Statistical Tests and their Effect Sizes](https://cran.r-project.org/web/packages/statsExpressions/vignettes/stats_details.html#non-parametric-1)
@@ -53,7 +31,6 @@
 ### Advanced Modelling
 - [Cluster Analysis in R](https://www.datanovia.com/en/blog/cluster-analysis-in-r-simplified-and-enhanced/)
 - [MNE Python in R](https://mne.tools/mne-r/index.html)
-
 ## Packages to Checkout
 - [ggeffects](https://strengejacke.wordpress.com/2017/05/24/ggeffects-create-tidy-data-frames-of-marginal-effects-for-ggplot-from-model-outputs-rstats/)
 - [ggnewscale](https://github.com/eliocamp/ggnewscale)
