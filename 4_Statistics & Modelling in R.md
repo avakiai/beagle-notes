@@ -24,6 +24,8 @@
 - [Transformations and link functions in emmeans](https://mran.microsoft.com/snapshot/2018-03-30/web/packages/emmeans/vignettes/transformations.html)
 ### Working with Probability Distributions
 - [All PD's in R](https://cran.r-project.org/web/views/Distributions.html)
+### Model Evaluation
+- [The *performance* package](https://easystats.github.io/performance/index.html)
 
 ## (Somewhat) Advanced Statistics
 ### Advanced R
