@@ -28,8 +28,6 @@
 - [The *performance* package](https://easystats.github.io/performance/index.html)
 
 ## (Somewhat) Advanced Statistics
-### Advanced R
-- [Hadley Wickham's Advanced R](https://adv-r.hadley.nz/index.html)
 ### Advanced Modelling
 - [Cluster Analysis in R](https://www.datanovia.com/en/blog/cluster-analysis-in-r-simplified-and-enhanced/)
 - [MNE Python in R](https://mne.tools/mne-r/index.html)
