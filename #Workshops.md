@@ -5,5 +5,8 @@
 - [Cajal Courses](https://www.fens.org/Training/CAJAL-programme/])
 - [Allen Institute Events](https://alleninstitute.org/what-we-do/brain-science/events-training/)
 
+## Computational Neuro
+- [Neuromatch Academy](https://academy.neuromatch.io/)
 ## Grants
 - [NENS Exchange Grants](https://www.fens.org/Training/Training-Grants-and-Stipends/NENS-Grants/NENS-Exchange-Grants/)
+
