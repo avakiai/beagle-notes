@@ -10,7 +10,7 @@
 - [Nils Reimer's 'Get with the Plot!'](https://nilsreimer.com/series/get-with-the-plot/)
 - [The Pirate's Guide to R](https://bookdown.org/ndphillips/YaRrr/)
 - [Data Skills for Reproducible Science](https://psyteachr.github.io/msc-data-skills/)
-- **[R Companion](https://rcompanion.org/rcompanion/)**
+- [R Companion](https://rcompanion.org/rcompanion/)
 
 #### Helpful Blogs:
 - [Rebecca Barter](http://www.rebeccabarter.com/tutorials/)
@@ -19,3 +19,4 @@
 
 ## First Steps in Python
 - [Software Carpentry](https://software-carpentry.org/lessons/)
+- [Python for Neuroscience](https://pyforneuro.com/)
