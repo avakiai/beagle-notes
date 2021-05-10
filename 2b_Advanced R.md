@@ -5,5 +5,4 @@
   + [Exceptions & Debugging](http://adv-r.had.co.nz/Exceptions-Debugging.html)
 - [R Markdown Definitive Guide](https://bookdown.org/yihui/rmarkdown/params-knit.html)
   + [Knitting with parameters](https://bookdown.org/yihui/rmarkdown/params-knit.html#knit-with-custom-parameters)
-### Viz. 
-- [Interactive Plots](https://www.r-graph-gallery.com/index.html)
+
