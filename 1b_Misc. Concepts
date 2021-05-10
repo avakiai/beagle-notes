@@ -7,11 +7,6 @@
 <ul>
 <li><a href="https://approachingblog.wordpress.com/2018/01/24/powering-your-interaction-2/" target="_blank" rel="noopener">Powering Your Interaction</a> (blogpost)</li>
 </ul>
-</li><li>Causal Inference
-<ul>
-<li><a href="https://amstat.tandfonline.com/doi/full/10.1080/09332480.2019.1579578#.XQJGClwzaF5" target="_blank" rel="noopener">"A Second Chance to Get Causal Inference Right: A Classification of Data Science Tasks"</a> by Hernán et al. 2019</li>
-<li><a href="https://p-hunermund.com/2019/04/28/dont-put-too-much-meaning-into-control-variables/" target="_blank" rel="noopener">Don't Put Too Much Meaning Into Control Variables</a> (blog post)</li>
-</ul>
 </li><li>Linear Models
 <ul>
 <li><a href="https://lindeloev.github.io/tests-as-linear/" target="_blank" rel="noopener">Common statistical tests are actually linear models</a> (gitbook)</li>
