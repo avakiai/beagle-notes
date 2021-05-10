@@ -3,7 +3,8 @@
 ## Plotting
 - [Patchwork: for building complex plots with ggplot objects](https://patchwork.data-imaginist.com/index.html)
 - [Plotly: fancy shit](https://plotly-r.com/index.html)
-- [Resource for more packages that all plot building](https://cran.r-project.org/web/packages/egg/vignettes/Ecosystem.html)
+- [Resource for more packages that enable plot building](https://cran.r-project.org/web/packages/egg/vignettes/Ecosystem.html)
+- [Packages for interactive plotting](https://www.r-graph-gallery.com/index.html)
 
 ## Data Viz Guide
 - [R Graphics Cookbook](https://r-graphics.org/)
