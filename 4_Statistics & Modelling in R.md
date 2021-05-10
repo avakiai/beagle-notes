@@ -1,8 +1,9 @@
 # Statistics & Modelling in R
 
-## Basic Statistics
+## Frequentist Statistics
 - [Statistical Tests and their Effect Sizes](https://cran.r-project.org/web/packages/statsExpressions/vignettes/stats_details.html#non-parametric-1)
 - [Effect sizes for Non-parametric Analyses](https://cran.r-project.org/web/packages/ARTool/vignettes/art-effect-size.html)
+- [Common Tests are all Linear Models](https://lindeloev.github.io/tests-as-linear/)
 ### Linear Models & ANOVAs
 - [Alexander P. Demos's Tutorials](http://www.alexanderdemos.org/ANOVA.html)
 ### General(ized) Linear Models
@@ -28,10 +29,10 @@
 ### Model Evaluation
 - [The *performance* package](https://easystats.github.io/performance/index.html)
 
-## (Somewhat) Advanced Statistics
-### Advanced Modelling
+## Bayesian Statistics
+- [bayestestR](https://easystats.github.io/blog/posts/bayestestr_presentation/)
+
+## Specialized Analyses
 - [Cluster Analysis in R](https://www.datanovia.com/en/blog/cluster-analysis-in-r-simplified-and-enhanced/)
 - [MNE Python in R](https://mne.tools/mne-r/index.html)
-## Packages to Checkout
-- [ggeffects](https://strengejacke.wordpress.com/2017/05/24/ggeffects-create-tidy-data-frames-of-marginal-effects-for-ggplot-from-model-outputs-rstats/)
-- [ggnewscale](https://github.com/eliocamp/ggnewscale)
+
