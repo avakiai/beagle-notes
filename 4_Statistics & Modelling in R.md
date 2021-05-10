@@ -15,6 +15,7 @@
 - [Plotting Estimates (Fixed Effects) of Regression Models](https://cran.r-project.org/web/packages/sjPlot/vignettes/plot_model_estimates.html)
 ### Model Building
 - [Tidymodels](https://www.tidymodels.org/start/models/)
+  + [Updates](https://www.tidyverse.org/blog/2021/03/tidymodels-2021-q1/)
 - [The R Formula Method](https://rviews.rstudio.com/2017/03/01/the-r-formula-method-the-bad-parts/_)
 - [Notes for Predictive Modelling](https://bookdown.org/egarpor/PM-UC3M/)
 ### Contrasts
