@@ -1,6 +1,6 @@
-# Concepts
+# Causal Inference
 
-## Causal Inference
+## General
 Judea Pearl's great books: 
 - [Causality](http://bayes.cs.ucla.edu/BOOK-2K/)
 - [Causal Inference in Statistics, A Primer](http://bayes.cs.ucla.edu/PRIMER/)
