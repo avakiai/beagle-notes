@@ -6,6 +6,7 @@
 - [Common Tests are all Linear Models](https://lindeloev.github.io/tests-as-linear/)
 ### Linear Models & ANOVAs
 - [Alexander P. Demos's Tutorials](http://www.alexanderdemos.org/ANOVA.html)
+- [Comparison of lm(), lme(), and lmer()](http://www.metafor-project.org/doku.php/tips:rma_vs_lm_lme_lmer)
 ### General(ized) Linear Models
 - [Practical Regression and Anova using R (book)](https://cran.r-project.org/doc/contrib/Faraway-PRA.pdf)
 - [GLMM Worked Examples](https://bbolker.github.io/mixedmodels-misc/ecostats_chap.html)
