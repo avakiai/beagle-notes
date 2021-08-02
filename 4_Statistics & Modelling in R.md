@@ -4,9 +4,14 @@
 - [Statistical Tests and their Effect Sizes](https://cran.r-project.org/web/packages/statsExpressions/vignettes/stats_details.html#non-parametric-1)
 - [Effect sizes for Non-parametric Analyses](https://cran.r-project.org/web/packages/ARTool/vignettes/art-effect-size.html)
 - [Common Tests are all Linear Models](https://lindeloev.github.io/tests-as-linear/)
+
+## Models
 ### Linear Models & ANOVAs
 - [Alexander P. Demos's Tutorials](http://www.alexanderdemos.org/ANOVA.html)
 - [Comparison of lm(), lme(), and lmer()](http://www.metafor-project.org/doku.php/tips:rma_vs_lm_lme_lmer)
+  
+  [lmer paper](https://cran.r-project.org/web/packages/lme4/vignettes/lmer.pdf)
+
 ### General(ized) Linear Models
 - [Practical Regression and Anova using R (book)](https://cran.r-project.org/doc/contrib/Faraway-PRA.pdf)
 - [GLMM Worked Examples](https://bbolker.github.io/mixedmodels-misc/ecostats_chap.html)
@@ -16,6 +21,7 @@
 - [Random Slope Models](http://www.bristol.ac.uk/cmm/learning/videos/random-slopes.html)
 - [Plotting Estimates (Fixed Effects) of Regression Models](https://cran.r-project.org/web/packages/sjPlot/vignettes/plot_model_estimates.html)
 ### Model Building
+- The [caret](https://topepo.github.io/caret/index.html) package
 - [Tidymodels](https://www.tidymodels.org/start/models/)
   + [Updates](https://www.tidyverse.org/blog/2021/03/tidymodels-2021-q1/)
 - [The R Formula Method](https://rviews.rstudio.com/2017/03/01/the-r-formula-method-the-bad-parts/_)
