@@ -38,6 +38,7 @@
 
 ## Bayesian Statistics
 - [bayestestR](https://easystats.github.io/blog/posts/bayestestr_presentation/)
+- [BayesRulesBook](https://www.bayesrulesbook.com/)
 
 ## Specialized Analyses
 - [Cluster Analysis in R](https://www.datanovia.com/en/blog/cluster-analysis-in-r-simplified-and-enhanced/)
