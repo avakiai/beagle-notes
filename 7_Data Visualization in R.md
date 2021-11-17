@@ -2,6 +2,7 @@
 
 ## Data Visualization Guide
 - [R Graphics Cookbook](https://r-graphics.org/)
+- [R Graph Gallery](https://www.r-graph-gallery.com/index.html)
 
 ## Plotting
 - [Patchwork: for building complex plots with ggplot objects](https://patchwork.data-imaginist.com/index.html)
