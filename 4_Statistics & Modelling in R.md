@@ -1,5 +1,7 @@
 # Statistics & Modelling in R
 
+[Tidymodels](https://www.tidymodels.org/)
+
 ## Frequentist Statistics
 - [Statistical Tests and their Effect Sizes](https://cran.r-project.org/web/packages/statsExpressions/vignettes/stats_details.html#non-parametric-1)
 - [Effect sizes for Non-parametric Analyses](https://cran.r-project.org/web/packages/ARTool/vignettes/art-effect-size.html)
