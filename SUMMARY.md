@@ -1,3 +1,5 @@
 # Table of contents
 
-* [Initial page](README.md)
+## Part I:
+* [Causal Inference]('./1_Causal_Inference.md')
+
