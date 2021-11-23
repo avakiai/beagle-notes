@@ -1,3 +1,3 @@
-# Initial page
+# Book in progress
 
-Does this work?
+Check back soon! Working on knitting this into a bookdown book.
